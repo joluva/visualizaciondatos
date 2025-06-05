@@ -14,3 +14,7 @@ pandas
 numpy
 matplotlib
 seaborn
+
+## HIPÓTESIS PLANTEADA BASADA EN DIFERENCIAS REGIONALES
+
+"Las provincias con mayor densidad poblacional presentan más consultas médicas anuales en comparación con regiones menos pobladas."
